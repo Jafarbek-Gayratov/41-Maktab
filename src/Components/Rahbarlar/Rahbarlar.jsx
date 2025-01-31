@@ -13,7 +13,7 @@ const Rahbarlar = () => {
           className="leader-img"
         />
         <div className="leader-info">
-          <h3>Jafarbek G`ayratov</h3>
+          <h3>Jafarbek</h3>
           <p>Dasturchi</p>
           <p>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta
